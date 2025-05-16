@@ -1,0 +1,8 @@
+.Service-Card{
+    background-color: antiquewhite;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(255,0,0,0.2);
+    max-width: 250px;
+}
